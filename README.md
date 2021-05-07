@@ -1,0 +1,1 @@
+[link](https://github.com/yashiknika/rsschool-cv/blob/gh-pages/cv.md)
